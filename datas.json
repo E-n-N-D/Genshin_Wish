@@ -1,0 +1,549 @@
+{
+  "gifs": {
+    "single": {
+      "3": "https://media.giphy.com/media/TYCmlAz65as7sDEavn/giphy.gif",
+      "4": "https://media.giphy.com/media/VDpz6NiERV0bk1u5eE/giphy.gif",
+      "5": "https://media.giphy.com/media/YLua0DkgByAgxQ60ln/giphy.gif"
+    },
+    "multi": {
+      "4": "https://media.giphy.com/media/HmzFSi5cFniznltytL/giphy.gif",
+      "5": "https://media.giphy.com/media/7U2pwg9G3Vs0XvlNMp/giphy.gif"
+    }
+  },
+  "5": {
+    "characters": [
+      {
+        "name": "albedo",
+        "image": "https://imgur.com/oaoVwUX",
+        "old": "https://i.imgur.com/DWaots9.jpg",
+        "new": "https://imgur.com/TE5aIBX.jpg"
+      },
+      {
+        "name": "diluc",
+        "image": "https://imgur.com/fLkp4Lb",
+        "old": "https://i.imgur.com/jOfOiKw.jpg",
+        "new": "https://imgur.com/Y1BOYLp.jpg"
+      },
+      {
+        "name": "eula",
+        "image": "https://imgur.com/Qnyeyd8",
+        "old": "https://i.imgur.com/FvBI50E.jpg",
+        "new": "https://imgur.com/vt9104k.jpg"
+      },
+      {
+        "name": "ganyu",
+        "image": "https://imgur.com/aMQ4CK6",
+        "old": "https://i.imgur.com/7VHthm8.jpg",
+        "new": "https://imgur.com/dA0UFtn.jpg"
+      },
+      {
+        "name": "hutao",
+        "image": "https://imgur.com/DD5FbE9",
+        "old": "https://i.imgur.com/G2byA1e.jpg",
+        "new": "https://imgur.com/LYBB1KT.jpg"
+      },
+      {
+        "name": "jean",
+        "image": "https://imgur.com/jrscw5j",
+        "old": "https://i.imgur.com/okK1R5b.jpg",
+        "new": ""
+      },
+      {
+        "name": "kazuha",
+        "image": "https://imgur.com/pr00crc",
+        "old": "https://i.imgur.com/opKyVqa.jpg",
+        "new": ""
+      },
+      {
+        "name": "keqing",
+        "image": "https://imgur.com/mfDtJ1p",
+        "old": "https://i.imgur.com/fuBAdeE.jpg",
+        "new": "https://imgur.com/vLNOICb.jpg"
+      },
+      {
+        "name": "klee",
+        "image": "https://imgur.com/IZXlxSe",
+        "old": "https://i.imgur.com/V9g1CZS.jpg",
+        "new": "https://imgur.com/pfFDrOG.jpg"
+      },
+      {
+        "name": "mona",
+        "image": "https://imgur.com/V0iK72Q",
+        "old": "https://i.imgur.com/4xDzNDM.jpg",
+        "new": "https://imgur.com/6ZVpkbR.jpg"
+      },
+      {
+        "name": "qiqi",
+        "image": "https://imgur.com/GNpqzx4",
+        "old": "https://i.imgur.com/Jz4j2ZE.jpg",
+        "new": "https://imgur.com/QNE10UW.jpg"
+      },
+      {
+        "name": "tartaglia",
+        "image": "https://imgur.com/rkM9kOV",
+        "old": "https://i.imgur.com/NMysrwx.jpg",
+        "new": "https://imgur.com/rTMZF7o.jpg"
+      },
+      {
+        "name": "venti",
+        "image": "https://imgur.com/IlDqKbG",
+        "old": "https://i.imgur.com/EpRJ5iy.jpg",
+        "new": "https://imgur.com/AqgO6xy.jpg"
+      },
+      {
+        "name": "xiao",
+        "image": "https://imgur.com/D8s2w8Z",
+        "old": "https://i.imgur.com/5zwksqp.jpg",
+        "new": "https://imgur.com/ueKLVjY.jpg"
+      },
+      {
+        "name": "zhongli",
+        "image": "https://imgur.com/GDzV5Ye",
+        "old": "https://i.imgur.com/bZQUbnM.jpg",
+        "new": "https://imgur.com/F7B0eBX.jpg"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Amos' Bow",
+        "image": "https://imgur.com/mzmM95f",
+        "old": "https://i.imgur.com/Q5kc05R.jpg",
+        "new": "https://imgur.com/Rdbw12U.jpg"
+      },
+      {
+        "name": "Aquila Favonia",
+        "image": "https://imgur.com/VLyl69Y",
+        "old": "https://i.imgur.com/KVtOAQq.jpg",
+        "new": "https://imgur.com/sijbiu3.jpg"
+      },
+      {
+        "name": "Elegy for the End",
+        "image": "https://imgur.com/G5GrAMp",
+        "old": "https://i.imgur.com/9m9WKRH.jpg",
+        "new": "https://imgur.com/5PwKuIl.jpg"
+      },
+      {
+        "name": "Lost Prayer to the Sacred Winds",
+        "image": "https://imgur.com/hbG8t9W",
+        "old": "https://i.imgur.com/oBxe8wb.jpg",
+        "new": "https://imgur.com/ByzsULr.jpg"
+      },
+      {
+        "name": "Memory of Dust",
+        "image": "https://imgur.com/SziBWK3",
+        "old": "https://i.imgur.com/m0D2yjd.jpg",
+        "new": ""
+      },
+      {
+        "name": "Jade Cutter",
+        "image": "https://imgur.com/Bzkl5qC",
+        "old": "https://i.imgur.com/6HzGH5e.jpg",
+        "new": ""
+      },
+      {
+        "name": "Primordial Jade Winged-Spear",
+        "image": "https://imgur.com/zL9gr8v",
+        "old": "https://i.imgur.com/llDQfJJ.jpg",
+        "new": ""
+      },
+      {
+        "name": "Skyward Atlas",
+        "image": "https://imgur.com/WQGxS69",
+        "old": "https://i.imgur.com/DRLOdeN.jpg",
+        "new": "https://imgur.com/TxNSmKZ.jpg"
+      },
+      {
+        "name": "Skyward Pride",
+        "image": "https://imgur.com/jPl5QIs",
+        "old": "https://i.imgur.com/5YZdrPD.jpg",
+        "new": "https://imgur.com/RIzTHsc.jpg"
+      },
+      {
+        "name": "Skyward Harp",
+        "image": "https://imgur.com/fKjLSRc",
+        "old": "https://i.imgur.com/LLkE7tq.jpg",
+        "new": "https://imgur.com/lIib0Ew.jpg"
+      },
+      {
+        "name": "Skyward Blade",
+        "image": "https://imgur.com/pnaxKYs",
+        "old": "https://i.imgur.com/W6CDrbM.jpg",
+        "new": "https://imgur.com/UGaphmU.jpg"
+      },
+      {
+        "name": "Skyward Spine",
+        "image": "https://imgur.com/iwTaM3q",
+        "old": "https://i.imgur.com/RpwpK3l.jpg",
+        "new": "https://imgur.com/SSvUilc.jpg"
+      },
+      {
+        "name": "Song of Broken Pines",
+        "image": "https://imgur.com/OTmr7XN",
+        "old": "https://i.imgur.com/QjBC9El.jpg",
+        "new": "https://imgur.com/TtILVQ8.jpg"
+      },
+      {
+        "name": "Staff of Homa",
+        "image": "https://imgur.com/x04K2jm",
+        "old": "https://i.imgur.com/DOgfUkK.jpg",
+        "new": "https://imgur.com/Z2ZptSN.jpg"
+      },
+      {
+        "name": "Summit Shaper",
+        "image": "https://imgur.com/e0wB5XY",
+        "old": "https://i.imgur.com/pSSsxND.jpg",
+        "new": ""
+      },
+      {
+        "name": "The Unforged",
+        "image": "https://imgur.com/2hOcSc2",
+        "old": "https://i.imgur.com/CpQx8ZG.jpg",
+        "new": ""
+      },
+      {
+        "name": "Vortex Vanquisher",
+        "image": "https://imgur.com/B4ZnySU",
+        "old": "https://i.imgur.com/CZeclUG.jpg",
+        "new": "https://imgur.com/m07qjsm.jpg"
+      },
+      {
+        "name": "Wolf's Gravestone",
+        "image": "https://imgur.com/LVafzYF",
+        "old": "https://i.imgur.com/tc2v4j9.jpg",
+        "new": "https://imgur.com/l4x68Qv.jpg"
+      }
+    ]
+  },
+  "4": {
+    "characters": [
+      {
+        "name": "amber",
+        "image": "https://imgur.com/niohnOP",
+        "old": "https://i.imgur.com/MZhult9.jpg",
+        "new": "https://imgur.com/MZhult9.jpg"
+      },
+      {
+        "name": "barbara",
+        "image": "https://imgur.com/diMD1eb",
+        "old": "https://i.imgur.com/Rc9Qkcs.jpg",
+        "new": "https://imgur.com/Xx77FXW.jpg"
+      },
+      {
+        "name": "beidou",
+        "image": "https://imgur.com/knICiCk",
+        "old": "https://i.imgur.com/bPTfWRI.jpg",
+        "new": "https://imgur.com/1GnWx1E.jpg"
+      },
+      {
+        "name": "chongyun",
+        "image": "https://imgur.com/63tmOCk",
+        "old": "https://i.imgur.com/p9vZQHp.jpg",
+        "new": "https://imgur.com/TbYgfWp.jpg"
+      },
+      {
+        "name": "fischl",
+        "image": "https://imgur.com/hrCH2pf",
+        "old": "https://i.imgur.com/xDAxxwM.jpg",
+        "new": "https://imgur.com/KBOmtS7.jpg"
+      },
+      {
+        "name": "kaeya",
+        "image": "https://imgur.com/SMzGDmR",
+        "old": "https://i.imgur.com/0mjq0HH.jpg",
+        "new": "https://imgur.com/0mjq0HH.jpg"
+      },
+      {
+        "name": "lisa",
+        "image": "https://imgur.com/XmnWRVf",
+        "old": "https://i.imgur.com/RJVZQYF.jpg",
+        "new": "https://imgur.com/RJVZQYF.jpg"
+      },
+      {
+        "name": "ningguang",
+        "image": "https://imgur.com/pdU0ivz",
+        "old": "https://i.imgur.com/yAuws0e.jpg",
+        "new": "https://imgur.com/uLXop22.jpg"
+      },
+      {
+        "name": "noelle",
+        "image": "https://imgur.com/8kcDtdT",
+        "old": "https://i.imgur.com/UJUDUwc.jpg",
+        "new": "https://imgur.com/K1erlaB.jpg"
+      },
+      {
+        "name": "razor",
+        "image": "https://imgur.com/YldZm7u",
+        "old": "https://i.imgur.com/qkUpcwN.jpg",
+        "new": "https://imgur.com/DsI31kF.jpg"
+      },
+      {
+        "name": "rosaria",
+        "image": "https://imgur.com/E9pKoHh",
+        "old": "https://i.imgur.com/5nTxsEt.jpg",
+        "new": "https://imgur.com/fHyCnVQ.jpg"
+      },
+      {
+        "name": "sucrose",
+        "image": "https://imgur.com/nQ6encL",
+        "old": "https://i.imgur.com/S65PA7K.jpg",
+        "new": "https://imgur.com/ojtYTu0.jpg"
+      },
+      {
+        "name": "xiangling",
+        "image": "https://imgur.com/w3TH8tD",
+        "old": "https://i.imgur.com/tEcqa0Q.jpg",
+        "new": ""
+      },
+      {
+        "name": "xingqiu",
+        "image": "https://imgur.com/4k52UYz",
+        "old": "https://i.imgur.com/fZDw3ab.jpg",
+        "new": "https://imgur.com/nP9oWoJ.jpg"
+      },
+      {
+        "name": "xinyan",
+        "image": "https://imgur.com/ekmyAJc",
+        "old": "https://i.imgur.com/UBVx9uQ.jpg",
+        "new": "https://imgur.com/9bRi5vt.jpg"
+      },
+      {
+        "name": "yanfei",
+        "image": "https://imgur.com/Oc8BiEo",
+        "old": "https://i.imgur.com/Y9aP1dO.jpg",
+        "new": "https://imgur.com/4Lo1Zkj.jpg"
+      },
+      {
+        "name": "bennett",
+        "image": "https://imgur.com/wOpBKqC",
+        "old": "https://i.imgur.com/IU90CNV.jpg",
+        "new": "https://imgur.com/nct0gTB.jpg"
+      },
+      {
+        "name": "diona",
+        "image": "https://imgur.com/cagHpDc",
+        "old": "https://i.imgur.com/OLHH9UZ.jpg",
+        "new": "https://imgur.com/TUVI5xp.jpg"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Alley Hunter",
+        "image": "https://imgur.com/LllOUdK",
+        "old": "https://i.imgur.com/3SD7k2l.jpg",
+        "new": "https://imgur.com/r3Pmm4i.jpg"
+      },
+      {
+        "name": "Dragon's Bane",
+        "image": "https://imgur.com/EX8OPea",
+        "old": "https://i.imgur.com/Jv7EdP6.jpg",
+        "new": ""
+      },
+      {
+        "name": "Rainslasher",
+        "image": "https://imgur.com/mqZ5rFd",
+        "old": "https://i.imgur.com/8tcsCP7.jpg",
+        "new": ""
+      },
+      {
+        "name": "The Alley Flash",
+        "image": "https://imgur.com/u5e9CjY",
+        "old": "https://i.imgur.com/QqHnfA0.jpg",
+        "new": "https://imgur.com/I5UjsHG.jpg"
+      },
+      {
+        "name": "The Bell",
+        "image": "https://imgur.com/nqc11Wc",
+        "old": "https://i.imgur.com/IV9P3U6.jpg",
+        "new": "https://imgur.com/p9tol2e.jpg"
+      },
+      {
+        "name": "The Flute",
+        "image": "https://imgur.com/q5Q7wBQ",
+        "old": "https://i.imgur.com/zaZHpEv.jpg",
+        "new": "https://imgur.com/L0G7o5y.jpg"
+      },
+      {
+        "name": "The Stringless",
+        "image": "https://imgur.com/9HTYdAG",
+        "old": "https://i.imgur.com/eqvxJOl.jpg",
+        "new": "https://imgur.com/G8NyPgy.jpg"
+      },
+      {
+        "name": "The Widsith",
+        "image": "https://imgur.com/iZKAyVz",
+        "old": "https://i.imgur.com/hy56alE.jpg",
+        "new": "https://imgur.com/Td2i6BF.jpg"
+      },
+      {
+        "name": "Wine and Song",
+        "image": "https://imgur.com/veRWiYZ",
+        "old": "https://i.imgur.com/jtI5CK1.jpg",
+        "new": "https://imgur.com/WMOPSYo.jpg"
+      },
+      {
+        "name": "Sacrificial Greatsword",
+        "image": "https://imgur.com/XPY41R4",
+        "old": "https://i.imgur.com/dUWrVIo.jpg",
+        "new": "https://imgur.com/ZQ7e1G7.jpg"
+      },
+      {
+        "name": "Sacrificial Sword",
+        "image": "https://imgur.com/EiAQ7So",
+        "old": "https://i.imgur.com/7wPNyWb.jpg",
+        "new": "https://imgur.com/iBtBnhJ.jpg"
+      },
+      {
+        "name": "Sacrificial Bow",
+        "image": "https://imgur.com/YSbTxUZ",
+        "old": "https://i.imgur.com/NmBGrS9.jpg",
+        "new": ""
+      },
+      {
+        "name": "Rust",
+        "image": "https://imgur.com/GDiRMpV",
+        "old": "https://i.imgur.com/zwaqj7A.jpg",
+        "new": "https://imgur.com/TXYH98b.jpg"
+      },
+      {
+        "name": "Lithic Spear",
+        "image": "https://imgur.com/bL2EAvI",
+        "old": "https://i.imgur.com/FALmBQo.jpg",
+        "new": "https://imgur.com/BH6DtSF.jpg"
+      },
+      {
+        "name": "Lithic Blade",
+        "image": "https://imgur.com/psiKW1s",
+        "old": "https://i.imgur.com/eXplDVG.jpg",
+        "new": ""
+      },
+      {
+        "name": "Lion's Roar",
+        "image": "https://imgur.com/lAMZsmN",
+        "old": "https://i.imgur.com/DJwy0SK.jpg",
+        "new": ""
+      },
+      {
+        "name": "Favonius Warbow",
+        "image": "https://imgur.com/pFnTAg1",
+        "old": "https://i.imgur.com/ad5sGcO.jpg",
+        "new": ""
+      },
+      {
+        "name": "Favonius Sword",
+        "image": "https://imgur.com/zqp3feb",
+        "old": "https://i.imgur.com/0hVjYvH.jpg",
+        "new": "https://imgur.com/ejsXS6l.jpg"
+      },
+      {
+        "name": "Favonius Lance",
+        "image": "https://imgur.com/7SPhbjM",
+        "old": "https://i.imgur.com/1ZcCSrT.jpg",
+        "new": "https://imgur.com/dEoTtGc.jpg"
+      },
+      {
+        "name": "Favonius Codex",
+        "image": "https://imgur.com/vJx8wN8",
+        "old": "https://i.imgur.com/hUYR90o.jpg",
+        "new": "https://imgur.com/2snKKta.jpg"
+      },
+      {
+        "name": "Favonius Greatsword",
+        "image": "https://imgur.com/8e9937v",
+        "old": "https://i.imgur.com/AOEhWU3.jpg",
+        "new": "https://imgur.com/6lTaVuD.jpg"
+      },
+      {
+        "name": "Eye of Perception",
+        "image": "https://imgur.com/GMIpc18",
+        "old": "https://i.imgur.com/zRhFFsF.jpg",
+        "new": ""
+      },
+      {
+        "name": "Sacrificial Fragments",
+        "image": "https://imgur.com/JsFB7cE",
+        "old": "https://i.imgur.com/vARfelM.jpg",
+        "new": "https://imgur.com/VpUMGyo.jpg"
+      }
+    ]
+  },
+  "3": [
+    {
+      "name": "Black Tassel",
+      "image": "https://imgur.com/M2jDIB3",
+      "old": "https://i.imgur.com/noeiEct.jpg",
+      "new": "https://imgur.com/4BmlPGC.jpg"
+    },
+    {
+      "name": "Bloodtained Greatsword",
+      "image": "https://imgur.com/9VqgM8k",
+      "old": "https://i.imgur.com/ZfL2rLN.jpg",
+      "new": "https://imgur.com/CzoLThR.jpg"
+    },
+    {
+      "name": "Cool Steel",
+      "image": "https://imgur.com/YYD5v6Q",
+      "old": "https://i.imgur.com/dX2SWxI.jpg",
+      "new": ""
+    },
+    {
+      "name": "Debate Club",
+      "image": "https://imgur.com/jiOxnTF",
+      "old": "https://i.imgur.com/tAq3xfh.jpg",
+      "new": "https://imgur.com/NafhfpF.jpg"
+    },
+    {
+      "name": "Emerald Orb",
+      "image": "https://imgur.com/rju57n8",
+      "old": "https://i.imgur.com/rhWJpgO.jpg",
+      "new": ""
+    },
+    {
+      "name": "Ferrous Shadow",
+      "image": "https://imgur.com/6VnT3nU",
+      "old": "https://i.imgur.com/8gwqU9T.jpg",
+      "new": "https://imgur.com/weC0Vj6.jpg"
+    },
+    {
+      "name": "Harbinger of Dawn",
+      "image": "https://imgur.com/ev9GdIs",
+      "old": "https://i.imgur.com/AKB6ddH.jpg",
+      "new": "https://imgur.com/OsQa6dV.jpg"
+    },
+    {
+      "name": "Magic Guide",
+      "image": "https://imgur.com/VZ7ormm",
+      "old": "https://i.imgur.com/CBH0F1h.jpg",
+      "new": "https://imgur.com/R7N6OfS.jpg"
+    },
+    {
+      "name": "Raven Bow",
+      "image": "https://imgur.com/u1rD42A",
+      "old": "https://i.imgur.com/46N15EU.jpg",
+      "new": "https://imgur.com/8c7KJED.jpg"
+    },
+    {
+      "name": "Sharpshotter's Oath",
+      "image": "https://imgur.com/gUMWtcm",
+      "old": "https://i.imgur.com/gnSvEkn.jpg",
+      "new": ""
+    },
+    {
+      "name": "Skyrider Sword",
+      "image": "https://imgur.com/XT7qa4X",
+      "old": "https://i.imgur.com/gLp5Lgo.jpg",
+      "new": ""
+    },
+    {
+      "name": "Slingshot",
+      "image": "https://imgur.com/eFfCdsw",
+      "old": "https://i.imgur.com/RSnB6qJ.jpg",
+      "new": ""
+    },
+    {
+      "name": "Thrilling Tales of Dragon Slayers",
+      "image": "https://imgur.com/V54weGb",
+      "old": "https://i.imgur.com/3sXPTSQ.jpg",
+      "new": "https://imgur.com/ZraVYK4.jpg"
+    }
+  ]
+}
